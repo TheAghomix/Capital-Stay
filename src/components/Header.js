@@ -45,7 +45,8 @@ const useStyles = makeStyles({
     borderRadius: "0px",
   },
   logo: {
-    margin: "0px 60px",
+    marginLeft: "60px",
+    marginRight: "60px",
   },
 });
 
